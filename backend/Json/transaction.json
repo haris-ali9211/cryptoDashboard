@@ -1,0 +1,152 @@
+[
+    {
+      "Date(UTC)": "2024-06-12 21:55:28",
+      "Market": "SEIUSDT",
+      "Type": "BUY",
+      "Price": "0.4818",
+      "Amount": "12.4",
+      "Total": "5.97432",
+      "Fee": "0.00000723",
+      "Fee Coin": "BNB"
+    },
+    {
+      "Date(UTC)": "2024-06-12 21:40:11",
+      "Market": "MATICUSDT",
+      "Type": "BUY",
+      "Price": "0.644",
+      "Amount": "9.7",
+      "Total": "6.2468",
+      "Fee": "0.00000753",
+      "Fee Coin": "BNB"
+    },
+    {
+      "Date(UTC)": "2024-05-23 11:19:14",
+      "Market": "ETHUSDT",
+      "Type": "SELL",
+      "Price": "3860",
+      "Amount": "0.0031",
+      "Total": "11.966",
+      "Fee": "0.00001473",
+      "Fee Coin": "BNB"
+    },
+    {
+      "Date(UTC)": "2024-05-01 20:30:20",
+      "Market": "ETHUSDT",
+      "Type": "BUY",
+      "Price": "2936.39",
+      "Amount": "0.0033",
+      "Total": "9.690087",
+      "Fee": "0.00001307",
+      "Fee Coin": "BNB"
+    },
+    {
+      "Date(UTC)": "2024-04-14 09:45:44",
+      "Market": "ETHUSDT",
+      "Type": "SELL",
+      "Price": "3038.29",
+      "Amount": "0.0032",
+      "Total": "9.722528",
+      "Fee": "0.00001314",
+      "Fee Coin": "BNB"
+    },
+    {
+      "Date(UTC)": "2024-04-13 22:03:40",
+      "Market": "ETHUSDT",
+      "Type": "BUY",
+      "Price": "2930.8",
+      "Amount": "0.0019",
+      "Total": "5.56852",
+      "Fee": "0.00000774",
+      "Fee Coin": "BNB"
+    },
+    {
+      "Date(UTC)": "2024-04-13 22:03:40",
+      "Market": "ETHUSDT",
+      "Type": "BUY",
+      "Price": "2930.85",
+      "Amount": "0.0019",
+      "Total": "5.568615",
+      "Fee": "0.00000774",
+      "Fee Coin": "BNB"
+    },
+    {
+      "Date(UTC)": "2024-04-11 18:10:39",
+      "Market": "GASUSDT",
+      "Type": "SELL",
+      "Price": "7.1",
+      "Amount": "1.6",
+      "Total": "11.36",
+      "Fee": "0.00001409",
+      "Fee Coin": "BNB"
+    },
+    {
+      "Date(UTC)": "2024-04-10 03:57:59",
+      "Market": "ROSEUSDT",
+      "Type": "BUY",
+      "Price": "0.12514",
+      "Amount": "82.7",
+      "Total": "10.349078",
+      "Fee": "0.00001334",
+      "Fee Coin": "BNB"
+    },
+    {
+      "Date(UTC)": "2024-04-06 13:49:22",
+      "Market": "OPUSDT",
+      "Type": "BUY",
+      "Price": "2.947",
+      "Amount": "3.39",
+      "Total": "9.99033",
+      "Fee": "0.00001288",
+      "Fee Coin": "BNB"
+    },
+    {
+      "Date(UTC)": "2024-04-03 00:38:36",
+      "Market": "APEUSDT",
+      "Type": "BUY",
+      "Price": "1.66",
+      "Amount": "6.02",
+      "Total": "9.9932",
+      "Fee": "0.00001386",
+      "Fee Coin": "BNB"
+    },
+    {
+      "Date(UTC)": "2024-04-03 00:37:43",
+      "Market": "ETHUSDT",
+      "Type": "BUY",
+      "Price": "3210",
+      "Amount": "0.0031",
+      "Total": "9.951",
+      "Fee": "0.00001376",
+      "Fee Coin": "BNB"
+    },
+    {
+      "Date(UTC)": "2024-04-02 18:23:31",
+      "Market": "GASUSDT",
+      "Type": "BUY",
+      "Price": "6.165",
+      "Amount": "1.6",
+      "Total": "9.864",
+      "Fee": "0.00001329",
+      "Fee Coin": "BNB"
+    },
+    {
+      "Date(UTC)": "2024-04-02 08:56:44",
+      "Market": "ATOMUSDT",
+      "Type": "BUY",
+      "Price": "11",
+      "Amount": "0.9",
+      "Total": "9.9",
+      "Fee": "0.00001335",
+      "Fee Coin": "BNB"
+    },
+    {
+      "Date(UTC)": "2024-04-01 19:20:27",
+      "Market": "POLYXUSDT",
+      "Type": "BUY",
+      "Price": "0.5718",
+      "Amount": "17.4",
+      "Total": "9.94932",
+      "Fee": "0.00001293",
+      "Fee Coin": "BNB"
+    }
+  ]
