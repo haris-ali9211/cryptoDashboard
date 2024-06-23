@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 const colors = require("colors");
-const userData = require('../config/router/userData')
+const transcations = require('../config/router/transcations')
 require("dotenv").config();
 
 
@@ -18,7 +18,7 @@ app.get("/", (req, res) => {
     res.send("Hello World!");
 });
 
-app.use("/api/v1.0/userData/", userData);
+app.use("/api/v1.0/transcations/", transcations);
 
 app.listen(port, () => {
     console.log(`Server running on PORT ${port}...🚀`.cyan.underline.bold);
